@@ -1,7 +1,7 @@
 import { Typography } from "@mui/material";
 
 
-export function HeaderTitle() {
+export function HeaderTitle(props) {
     return (
         <div>
             <Typography variant="h2" >
